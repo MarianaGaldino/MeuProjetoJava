@@ -5,6 +5,6 @@ public class Main{
 		printAdditionalMessage();
 	}
 	public static void printAdditionalMessage(){
-		System.out.println("Esta é uma mensagem adicional");
+		System.out.println("Esta é uma mensagem atualizada");
 	}
 }
